@@ -1,0 +1,7 @@
+﻿  OpenMP.cpp
+D:\System\Projects\Parallel_Programming\OpenMP\OpenMP\OpenMP.cpp(37,45): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  OpenMP.vcxproj -> D:\System\Projects\Parallel_Programming\OpenMP\Debug\OpenMP.exe
